@@ -1,3 +1,9 @@
+### Web version on GitBook.com
+
+The web version of the editor on GitBook.com supports all modern browsers: Internet Explorer (9+), Google Chrome, Firefox, Opera and Safari.
+
+### Desktop version
+
 The [GitBook Editor](https://www.gitbook.com/editor) for desktop supports **Windows**, **Mac OS X** and **Linux**.
 
 | Platform | Supported | Links |
