@@ -1,0 +1,14 @@
+{
+    "gitbook": ">=3.0.0-pre.0",
+
+    "title": "GitBook Help Center",
+
+    "plugins": ["-algolia", "search", "theme-faq", "-lunr", "-fontsettings", "-sharing"],
+    "pluginsConfig": {
+        "algolia": {
+            "index":         "help.gitbook.com",
+            "applicationID": "1QIL1RJPSO",
+            "publicKey":     "fd4408fbe42603ef1d8ca41a255a1fb0"
+        }
+    }
+}
