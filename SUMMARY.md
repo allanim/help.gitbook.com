@@ -29,6 +29,10 @@
 * [How can I disable/delete an Access Key?](books/how-can-i-disable-access-key.md)
 * [Can I use a custom domain for my book?](books/can-i-use-custom-domain.md)
 
+### Content & Customization
+
+* [Can I customize the design of my book?](content/can-i-customize-design.md)
+
 ### GitHub Integration
 
 * [Can I host my content on GitHub?](github/can-i-host-on-github.md)
