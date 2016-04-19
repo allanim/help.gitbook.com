@@ -2,9 +2,11 @@
 
 ### Basics
 
+* [What is GitBook?](basics/what-is-gitbook.md)
 * [Can I use GitBook to publish an F.A.Q / Help center?](basics/for-faq-documentation.md)
 * [Can I use GitBook to publish an API documentation?](basics/for-api-documentation.md)
 * [Do you have any rights on the book?](basics/do-you-have-any-rights.md)
+* [Can I run GitBook on-premise (on my own servers)?](basics/can-i-run-gitbook-on-premise.md)
 * [Who's using GitBook?](basics/who-s-using-gitbook.md)
 * [Do you offer education discounts?](basics/do-you-offer-discounts.md)
 
@@ -32,6 +34,10 @@
 ### Content & Customization
 
 * [Can I customize the design of my book?](content/can-i-customize-design.md)
+* [How can I include custom CSS?](content/how-can-i-include-css.md)
+* [How can I change the theme?](content/how-can-i-change-theme.md)
+* [How can I integrate dynamic content (such as video)?](content/how-can-i-include-dynamic.md)
+* [How can I enable a plugin?](content/how-can-i-add-plugin.md)
 
 ### GitHub Integration
 
