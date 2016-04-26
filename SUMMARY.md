@@ -26,7 +26,7 @@
 * [How can I import a PDF or Word document?](books/import-word-pdf-document.md)
 * [Who can read my book?](books/who-can-read-book.md)
 * [Who can edit my book?](books/who-can-edit-book.md)
-* [How can I grand read-only access to a private book?](books/how-can-i-grant-read-access.md)
+* [How can I grant read-only access to a private book?](books/how-can-i-grant-read-access.md)
 * [What is a Collaborator?](books/what-is-a-collaborator.md)
 * [What is an Access Key?](books/what-is-an-access-key.md)
 * [How can I disable/delete an Access Key?](books/how-can-i-disable-access-key.md)
