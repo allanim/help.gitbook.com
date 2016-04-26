@@ -54,7 +54,7 @@
 * [How can I create an organization?](orgs/how-can-i-create.md)
 * [How can I convert an user into an organization?](orgs/how-can-i-convert-user.md)
 * [How can I transfer the organization ownership?](orgs/how-can-i-transfer-ownership.md)
-* [How do I delete an organization account?](orgs/how-do-i-delete.md)
+* [How do I delete an organization account?](orgs/how-do-i-delete-organization.md)
 
 ### Editor
 
