@@ -12,7 +12,6 @@
 
 ### Accounts & Billing
 
-* [How many books can I create?](accounts/how-many-books.md)
 * [I forgot/lost my password. How do I reset it?](accounts/i-forgot-lost-my-password.md)
 * [What plan should you choose?](accounts/what-plan-should-i-choose.md)
 * [How do I delete my user account?](accounts/how-do-i-delete-account.md)
@@ -23,6 +22,7 @@
 
 ### Books
 
+* [How many books can I create?](books/how-many-books.md)
 * [How can I import a PDF or Word document?](books/import-word-pdf-document.md)
 * [Who can read my book?](books/who-can-read-book.md)
 * [Who can edit my book?](books/who-can-edit-book.md)
