@@ -6,7 +6,7 @@ To make someone else the owner of an organization account, you must add a new ow
 
 2. Contact the new owner and make sure he or she is able to access the organization's settings.
 
-3. If you are currently responsible for paying for GitBook in your organization, you'll also need to change the organization's billing information to reflect the new owner.
+3. If needed, update the organization's billing information to reflect the new owner.
 
 4. Remove yourself from the organization.
 

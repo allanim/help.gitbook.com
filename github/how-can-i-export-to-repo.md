@@ -1,3 +1,5 @@
+<!-- TODO Link to guide for GitHub hosting -->
+
 If you started writing your book on GitBook and you now want to [host its source on GitHub](can-i-host-on-github.md), don't worry, it's easy. To do so, you can either use the GitHub import tool, or operate from the command line.
 
 #### Using the GitHub Import Tool

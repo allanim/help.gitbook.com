@@ -1,3 +1,5 @@
+<!-- TODO Reuse the article from documentation/doc-separation and make a it _guide_ -->
+
 GitBook integrates perfectly with [GitHub](https://github.com) as a hosting solution for the source of your book. When configured correctly, this has several effects:
 
 - The Editor will make changes directly to the GitHub repository
