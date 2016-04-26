@@ -1,4 +1,9 @@
-Plugins are the more efficient way to include dynamic content or change the default behavior of GitBook.
+---
+search_keywords: ["install", "plugin"]
+
+---
+
+[Plugins](https://plugins.gitbook.com) are the most efficient way to include dynamic content or change the default behavior of GitBook.
 
 ### From the editor
 
