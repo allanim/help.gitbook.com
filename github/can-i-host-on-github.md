@@ -1,7 +1,7 @@
 GitBook integrates perfectly with [GitHub](https://github.com) as a hosting solution for the source of your book. When configured correctly, this has several effects:
 
 - The Editor will make changes directly to the GitHub repository
-- GitBook will watch for update on GitHub and trigger website/pdf updates accordingly
+- GitBook will watch for updates on GitHub and trigger website/pdf updates accordingly
 
 Integrating with GitHub is done in 3 steps:
 

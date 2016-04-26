@@ -5,5 +5,5 @@ Organizations are great for businesses and large projects that need multiple own
 * Business plans for private books and distribution
 * Collaborators-based access permissions
 * Unlimited administrators and collaborators using teams
-* Billing receipts that can be sent to a second email address
+* Billing receipts that can be sent to a secondary email address
 

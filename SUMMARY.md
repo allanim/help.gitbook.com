@@ -58,5 +58,5 @@
 ### Editor
 
 * [Can I edit my books offline?](editor/can-i-edit-offline.md)
-* [What platforms does the editor supports?](editor/what-os-are-supported.md)
+* [What platforms does the editor support?](editor/what-os-are-supported.md)
 

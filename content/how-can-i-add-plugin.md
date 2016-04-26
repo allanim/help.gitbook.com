@@ -1,4 +1,4 @@
-PLugins are the more efficient way to include dynamic content or change the default behavior of GitBook.
+Plugins are the more efficient way to include dynamic content or change the default behavior of GitBook.
 
 ### From the editor
 
