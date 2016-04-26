@@ -13,7 +13,7 @@
 ### Accounts & Billing
 
 * [I forgot/lost my password. How do I reset it?](accounts/i-forgot-lost-my-password.md)
-* [What plan should you choose?](accounts/what-plan-should-i-choose.md)
+* [What plan should I choose?](accounts/what-plan-should-i-choose.md)
 * [How do I delete my user account?](accounts/how-do-i-delete-account.md)
 * [Will there be a minimum contract with premium plans?](accounts/will-there-be-a-minimal-contract.md)
 * [Are the plans's prices the same worldwide?](accounts/are-prices-same-worldwide.md)
