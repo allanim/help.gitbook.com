@@ -3,6 +3,4 @@ related:
     - editor/what-os-are-supported.md
 ---
 
-Yes, [GitBook Editor](https://www.gitbook.com/editor) is released as a desktop application for Windows, Mac OS X and Linux.
-
-It lets you edit your book on your desktop and sync your modifications online once you're ready.
+The [GitBook Editor](https://www.gitbook.com/editor) is released as a desktop application for Windows, Mac OS X and Linux, and supports offline editing. You can always synchronize your modifications once you are back online, or when you feel ready.

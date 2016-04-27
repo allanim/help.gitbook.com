@@ -1,3 +1,3 @@
-If you unintentionally shared an Access Key with the wrong person or want to temporarily disable this feature:
+Sometimes, you need to temporarily disable or revoke an Access Key. For example when you unintentionally shared an Access Key with the wrong person.
 
-From the **Access Keys dashboard** (located in your book settings on GitBook.com), you can **disable** an Access Key to temporary revoke a read-access or **delete** it.
+In the book settings on GitBook.com, from the **Access Keys dashboard**, you can **disable** an Access Key to temporary revoke a read-access, or you can **delete** it.

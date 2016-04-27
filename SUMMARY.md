@@ -8,7 +8,6 @@
 * [Does GitBook own any rights on my book?](basics/does-gitbook-own-any-rights.md)
 * [Can I run GitBook on-premise (on my own servers)?](basics/can-i-run-gitbook-on-premise.md)
 * [Who's using GitBook?](basics/who-s-using-gitbook.md)
-* [Do you offer education discounts?](basics/do-you-offer-discounts.md)
 
 ### Accounts & Billing
 
@@ -17,6 +16,8 @@
 * [How do I delete my user account?](accounts/how-do-i-delete-account.md)
 * [Will there be a minimum contract with premium plans?](accounts/will-there-be-a-minimal-contract.md)
 * [Are the plans' prices the same worldwide?](accounts/are-prices-same-worldwide.md)
+* [Are the plans's prices the same worldwide?](accounts/are-prices-same-worldwide.md)
+* [Do you offer education discounts?](accounts/do-you-offer-discounts.md)
 * [What payment methods do you accept?](accounts/what-payment-methods-do-you-accept.md)
 * [Why am I getting an error "An account with this email address already exists"?](accounts/why-error-duplicate.md)
 
@@ -53,7 +54,7 @@
 * [How can I create an organization?](orgs/how-can-i-create.md)
 * [How can I convert an user into an organization?](orgs/how-can-i-convert-user.md)
 * [How can I transfer the organization ownership?](orgs/how-can-i-transfer-ownership.md)
-* [How do I delete an organization account?](orgs/how-do-i-delete.md)
+* [How do I delete an organization account?](orgs/how-do-i-delete-organization.md)
 
 ### Editor
 

@@ -1,11 +1,11 @@
 ---
 related:
     - orgs/how-can-i-transfer-ownership.md
-    - orgs/how-do-i-delete.md
+    - orgs/how-do-i-delete-organization.md
 ---
 
-You can [delete your GitBook user account](https://www.gitbook.com/settings/delete) at any time. Before you do so, you must hand over the reins of any organizations you might own and delete or transfer ownership of all your existing books.
+You can [delete your GitBook user account](https://www.gitbook.com/settings/delete) at any time. Be careful, this operation **CANNOT** be undone.
 
-This action **CANNOT** be undone. Discussions you've created and comments you've made in books owned by other users will not be deleted - instead, they'll be associated with a Ghost user.
+Before you do so, you should transfer ownership of any organizations you might own. All books owned by your account will be lost, so you might want to transfer them to another user too. However, discussions and comments you have made in other people's books will remain, becoming anonymous (with Ghost user as author).
 
-The account name also becomes available to anyone else to use on a new account, and we stop billing you.
+Your account name will become available to anyone else to create a new account, and we will stop billing you.

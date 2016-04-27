@@ -4,8 +4,5 @@ related:
     - books/what-is-an-access-key.md
 ---
 
-You can grant read-only access to a private books using two methods:
-
-- **Invite as collaborator**
-- **Create an Access Key**
+There are two ways to grant read-only access to a private book: by **inviting him as Collaborator**, or by **creating an Access Key**.
 
