@@ -3,6 +3,6 @@ related:
     - books/how-can-i-disable-access-key.md
 ---
 
-An Access Key is a unique URL granting read access to anyone with it.
+An Access Key is a unique URL granting read access to a private book.
 
-Anyone with the URL can access the content, you are responsible to ensure that it's not being shared with the wrong persons.
+As anyone with this URL can access your content, be careful when sharing it. For improved security, you can choose to update a book's Access Key regularly.

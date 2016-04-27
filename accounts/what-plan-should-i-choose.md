@@ -1,2 +1,2 @@
-GitBook pricing vary according to the account type: Individual or Organization.
+[GitBook pricing](https://www.gitbook.com/pricing) varies according to the account type: Individual or Organization.
 

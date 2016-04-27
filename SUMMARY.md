@@ -5,28 +5,28 @@
 * [What is GitBook?](basics/what-is-gitbook.md)
 * [Can I use GitBook to publish an F.A.Q / Help center?](basics/for-faq-documentation.md)
 * [Can I use GitBook to publish an API documentation?](basics/for-api-documentation.md)
-* [Do you have any rights on the book?](basics/do-you-have-any-rights.md)
+* [Does GitBook own any rights on my book?](basics/does-gitbook-own-any-rights.md)
 * [Can I run GitBook on-premise (on my own servers)?](basics/can-i-run-gitbook-on-premise.md)
 * [Who's using GitBook?](basics/who-s-using-gitbook.md)
 * [Do you offer education discounts?](basics/do-you-offer-discounts.md)
 
 ### Accounts & Billing
 
-* [How many books can I create?](accounts/how-many-books.md)
 * [I forgot/lost my password. How do I reset it?](accounts/i-forgot-lost-my-password.md)
-* [What plan should you choose?](accounts/what-plan-should-i-choose.md)
+* [What plan should I choose?](accounts/what-plan-should-i-choose.md)
 * [How do I delete my user account?](accounts/how-do-i-delete-account.md)
 * [Will there be a minimum contract with premium plans?](accounts/will-there-be-a-minimal-contract.md)
-* [Are the plans's prices the same worldwide?](accounts/are-prices-same-worldwide.md)
+* [Are the plans' prices the same worldwide?](accounts/are-prices-same-worldwide.md)
 * [What payment methods do you accept?](accounts/what-payment-methods-do-you-accept.md)
 * [Why am I getting an error "An account with this email address already exists"?](accounts/why-error-duplicate.md)
 
 ### Books
 
+* [How many books can I create?](books/how-many-books.md)
 * [How can I import a PDF or Word document?](books/import-word-pdf-document.md)
 * [Who can read my book?](books/who-can-read-book.md)
 * [Who can edit my book?](books/who-can-edit-book.md)
-* [How can I grand read-only access to a private book?](books/how-can-i-grant-read-access.md)
+* [How can I grant read-only access to a private book?](books/how-can-i-grant-read-access.md)
 * [What is a Collaborator?](books/what-is-a-collaborator.md)
 * [What is an Access Key?](books/what-is-an-access-key.md)
 * [How can I disable/delete an Access Key?](books/how-can-i-disable-access-key.md)
@@ -58,5 +58,5 @@
 ### Editor
 
 * [Can I edit my books offline?](editor/can-i-edit-offline.md)
-* [What platforms does the editor supports?](editor/what-os-are-supported.md)
+* [What platforms does the editor support?](editor/what-os-are-supported.md)
 
