@@ -1,8 +1,8 @@
 All books on **Gitbook.com** are served under `http://{author}.gitbooks.io/{book}/`, the book's content is available at `http://{author}.gitbooks.io/{book}/content/`.
 
-But you can configure your book to use a custom domain name (a free feature of GitBook.com). Domain names can be used for your homepage, your content, or both.
+But you can also tell GitBook.com to serve your content under a custom domain. Custom domains are great to maintain branding or integrate documentation into your website.
 
-Adding a custom domain is easy.
+Adding a custom domain is easy:
 
 #### On GitBook.com
 
@@ -18,4 +18,4 @@ To finish the setup you will need to make a few changes with your domain registr
 
 3. To **redirect** the naked domain (`yourdomain.com`) to `www.yourdomain.com`, you'll need to enable *"domain forwarding"*. This is often found under `Forwarding`, `URL Forwarding` or `URL Redirect`.
 
-That's all ! It might take a few hours for the DNS to propagate.
+That's all ! It might take a few hours for the new DNS settings to propagate.

@@ -4,19 +4,19 @@ Importing an existing document to GitBook is easy. Upload it when creating a boo
 
 ##### Accepted formats
 
-Here are the formats available for importation:
+GitBook.com currently supports importing:
 
-| Type | Extension |
-| ---- | --------- |
-| Microsoft Word Document | `.docx` |
-| DocBook v5.x | `.xml` |
-| HTML file | `.html` |
+| Type                      | Extension         |
+| --------------------------| ----------------- |
+| Microsoft Word Document   | `.doc` or `.docx` |
+| DocBook v5.x              | `.xml`            |
+| HTML file                 | `.html`           |
 
 For better results, we recommend using:
 * Microsoft Word 2007+ documents
 * DocBook v5.x documents
 
-For DocBook v4 documents, consider [converting them automatically to version 5](http://doccookbook.sourceforge.net/html/en/dbc.structure.db4-to-db5.html) for improved compatibility.
+For DocBook v4 documents, please consider [converting them to version 5](http://doccookbook.sourceforge.net/html/en/dbc.structure.db4-to-db5.html) for improved compatibility.
 
 ##### Conversion
 
@@ -56,5 +56,3 @@ Also, for `.docx` documents, all included images are exported to an `assets/` fo
 The import feature uses the [gitbook-convert](https://github.com/GitbookIO/gitbook-convert) CLI utility. If you ever need more flexibility, consider using [gitbook-convert](https://github.com/GitbookIO/gitbook-convert) locally, create a repository and import it using Git or GitHub.
 
 [gitbook-convert](https://github.com/GitbookIO/gitbook-convert) infers a book structure from your document's structure, based on header levels. Top-level headers become chapters. Chapters are folders with a `README.md` as preface, and sub-chapters for every second-level headers. If no second-level headers are present, the chapter will consist of a single file instead of a folder.
-
-
