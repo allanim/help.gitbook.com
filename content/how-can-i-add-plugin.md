@@ -22,4 +22,4 @@ Create or edit your `book.json` to include:
 }
 ```
 
-Details about the `book.json` can be found in the [Toolchain Documentation](http://toolchain.gitbook.com/config.html).
+Details about the `book.json` file can be found in the [Toolchain Documentation](http://toolchain.gitbook.com/config.html).

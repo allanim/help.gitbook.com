@@ -4,6 +4,6 @@ Permissions for collaborators have 3 levels of granularity:
 
 | Type | Read online | Download eBooks | Edit Content | Edit Settings |
 | ---- | :---------------------: | :----------: | :----------: | :-----------: |
-| **Read** |  ✅ | ✅ | 🚫 | 🚫 |
-| **Write** |  ✅ | ✅ | ✅ | 🚫 |
+| **Read**   |  ✅ | ✅ | 🚫 | 🚫 |
+| **Write**  |  ✅ | ✅ | ✅ | 🚫 |
 | **Manage** |  ✅ | ✅ | ✅ | ✅ |
