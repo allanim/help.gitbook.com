@@ -9,5 +9,5 @@ related:
 Yes, almost everything in GitBook can be customized:
 
 - [You can include custom CSS](how-can-i-include-css.md)
-- [You can change the whole theme](how-can-i-change-theme.md)
+- [You can change the entire theme](how-can-i-change-theme.md)
 - [You can use plugins](how-can-i-add-plugin.md)

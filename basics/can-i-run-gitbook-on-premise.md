@@ -1,3 +1,8 @@
-We supply an on-premise version of GitBook for large enterprises with security concerns.
+---
+search_keywords: ["enterprise", "on-premise", "GitBook Enterprise"]
 
-[Contact us](https://enterprise.gitbook.com) to get more details about our on-premise version.
+---
+
+We provide an on-premise version of GitBook for large companies, or companies with strong security requirements.
+
+[Contact us](https://enterprise.gitbook.com) to learn more about our on-premise version.

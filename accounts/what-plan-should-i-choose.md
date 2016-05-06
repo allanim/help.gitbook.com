@@ -1,2 +1,3 @@
-[GitBook pricing](https://www.gitbook.com/pricing) varies according to the account type: Individual or Organization.
+GitBook has paid plans both for individuals and teams (see [our pricing](https://www.gitbook.com/pricing)).
 
+If you are creating content for your company or a team, consider creating and organization and opting for a paid **Organization** plan. Opt for an Individual plan if you don't plan on having any collaborators.
