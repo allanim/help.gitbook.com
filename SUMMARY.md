@@ -32,6 +32,7 @@
 * [What is an Access Key?](books/what-is-an-access-key.md)
 * [How can I disable/delete an Access Key?](books/how-can-i-disable-access-key.md)
 * [Can I use a custom domain for my book?](books/can-i-use-custom-domain.md)
+* [How can I use Git to update my book?](books/how-can-i-use-git.md)
 
 ### Content & Customization
 
@@ -40,6 +41,7 @@
 * [How can I change the theme?](content/how-can-i-change-theme.md)
 * [How can I integrate dynamic content (such as video)?](content/how-can-i-include-dynamic.md)
 * [How can I enable a plugin?](content/how-can-i-add-plugin.md)
+* [Why are my updates failing to build?](content/why-are-my-updates-failing.md)
 
 ### GitHub Integration
 

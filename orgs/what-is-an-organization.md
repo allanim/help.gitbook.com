@@ -1,7 +1,7 @@
 ---
 related:
-    - what-is-difference.md
-    - how-can-i-create.md
+    - orgs/what-is-difference.md
+    - orgs/how-can-i-create.md
 
 ---
 
