@@ -40,6 +40,7 @@
 * [How can I change the theme?](content/how-can-i-change-theme.md)
 * [How can I integrate dynamic content (such as video)?](content/how-can-i-include-dynamic.md)
 * [How can I enable a plugin?](content/how-can-i-add-plugin.md)
+* [Is there a limit to the size of my book's content?](content/is-there-a-limited-size.md)
 * [Why are my updates failing to build?](content/why-are-my-updates-failing.md)
 
 ### GitHub Integration
