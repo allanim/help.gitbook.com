@@ -26,7 +26,10 @@ To integrate your book with GitHub, you need to authorize GitBook to access your
 
 From your book's GitHub settings page, you can easily specify to which GitHub repository your book will be linked.
 
-In the input form, type in the name of your book's repository in the following format: `<github-username>/<github-repository-name>`.
+In the input form, type in the name of your book's repository in the following format:
+
+`<github-username>/<github-repository-name>`
+
 Note that you shouldn't enter neither the full GitHub address, nor the `.git` extension.
 
 Finally, click on the **Save** button.
