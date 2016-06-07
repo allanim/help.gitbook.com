@@ -1,7 +1,3 @@
-Yes, Both **public and private book** have per-file and cumulated book content limitations.
+Yes, Both **public and private books** cumulated content size is limited to **256MB**.
 
-These are the current limitations:
-
-Per-file | Total book content
-:------: | :----------------:
-10MB     | 100MB
+Currently, the Editor doesn't allow the upload of files larger than 10MB.
