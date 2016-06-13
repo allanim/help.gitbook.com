@@ -32,6 +32,7 @@
 * [How can I disable/delete an Access Key?](books/how-can-i-disable-access-key.md)
 * [Can I use a custom domain for my book?](books/can-i-use-custom-domain.md)
 * [How can I use Git to update my book?](books/how-can-i-use-git.md)
+* [How can I allow comments on my book?](books/how-can-i-allow-comments-on-my-book.md)
 
 ### Content & Customization
 
