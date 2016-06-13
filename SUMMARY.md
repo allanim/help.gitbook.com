@@ -31,6 +31,7 @@
 * [What is an Access Key?](books/what-is-an-access-key.md)
 * [How can I disable/delete an Access Key?](books/how-can-i-disable-access-key.md)
 * [Can I use a custom domain for my book?](books/can-i-use-custom-domain.md)
+* [Will my book be accessible with HTTPS?](books/will-my-book-be-accessible-with-https.md)
 * [How can I use Git to update my book?](books/how-can-i-use-git.md)
 * [How can I allow comments on my book?](books/how-can-i-allow-comments-on-my-book.md)
 

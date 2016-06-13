@@ -1,3 +1,9 @@
+---
+related:
+    - books/will-my-book-be-accessible-with-https.md
+
+---
+
 All books on **Gitbook.com** are served under `http://{author}.gitbooks.io/{book}/`, the book's content is available at `http://{author}.gitbooks.io/{book}/content/`.
 
 But you can also tell GitBook.com to serve your content under a custom domain. Custom domains are great to maintain branding or integrate documentation into your website.
