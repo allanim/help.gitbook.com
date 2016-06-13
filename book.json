@@ -2,6 +2,9 @@
     "gitbook": ">=3.0.0-pre.11",
     "title": "GitBook Help Center",
     "plugins": ["algolia", "search", "theme-faq", "-lunr", "-fontsettings", "-sharing"],
+    "structure": {
+        "readme": "home.md"
+    },
     "pluginsConfig": {
         "algolia": {
             "index":         "help.gitbook.com",
