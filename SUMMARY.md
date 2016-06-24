@@ -44,6 +44,7 @@
 * [How can I enable a plugin?](content/how-can-i-add-plugin.md)
 * [Is there a limit to the size of my book's content?](content/is-there-a-limited-size.md)
 * [Why are my updates failing to build?](content/why-are-my-updates-failing.md)
+* [How can I read/share a specific version of my book?](content/how-can-i-access-a-specific-version.md)
 
 ### GitHub Integration
 
