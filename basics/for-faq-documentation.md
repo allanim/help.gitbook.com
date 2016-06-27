@@ -1,3 +1,9 @@
-Yes, as a matter of fact this Help Center is made with [GitBook](https://github.com/GitbookIO/gitbook) and hosted on [GitBook.com](https://gitbook.com).
+---
+related:
+    - content/how-can-i-change-theme.md
 
-GitBook is perfectly suited for publishing an F.A.Q. You can get started by creating a GitBook with the "Help Center" template.
+---
+
+You can create an F.A.Q. with [GitBook](https://github.com/GitbookIO/gitbook). As a matter of fact, this Help Center is made with GitBook and hosted on [GitBook.com](https://gitbook.com).
+
+To create an F.A.Q., you can install and use the [theme-faq](https://plugins.gitbook.com/plugin/theme-faq). Soon, you will be able to choose a F.A.Q. template from the book creation page on GitBook.com.
