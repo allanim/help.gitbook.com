@@ -1,5 +1,6 @@
 ---
-search_keywords: ["install", "plugin"]
+search:
+    keywords: ["install", "plugin"]
 
 ---
 

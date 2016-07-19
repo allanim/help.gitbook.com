@@ -1,5 +1,6 @@
 ---
-search_keywords: ["duplicate"]
+search:
+    keywords: ["duplicate"]
 
 ---
 

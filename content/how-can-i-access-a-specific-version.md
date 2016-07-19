@@ -1,5 +1,6 @@
 ---
-search_keywords: ["content", "version", "commit"]
+search:
+    keywords: ["content", "version", "commit"]
 
 ---
 

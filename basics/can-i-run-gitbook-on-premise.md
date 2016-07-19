@@ -1,5 +1,6 @@
 ---
-search_keywords: ["enterprise", "on-premise", "GitBook Enterprise"]
+search:
+    keywords: ["enterprise", "on-premise", "GitBook Enterprise"]
 
 ---
 

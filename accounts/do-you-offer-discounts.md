@@ -1,5 +1,6 @@
 ---
-search_keywords: ["promo", "discount", "student", "teacher", "school", "non-profit"]
+search:
+    keywords: ["promo", "discount", "student", "teacher", "school", "non-profit"]
 
 ---
 
