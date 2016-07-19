@@ -65,4 +65,4 @@
 
 * [Can I edit my books offline?](editor/can-i-edit-offline.md)
 * [What platforms does the editor support?](editor/what-os-are-supported.md)
-
+* [Where are the files stored?](editor/where-are-the-files-stored.md)
