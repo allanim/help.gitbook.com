@@ -42,7 +42,7 @@
 * [Is there a limit to the size of my book's content?](content/is-there-a-limited-size.md)
 * [Why are my updates failing to build?](content/why-are-my-updates-failing.md)
 * [How can I read\/share a specific version of my book?](content/how-can-i-access-a-specific-version.md)
-* [Is RTL supported ?](how-can-i-enable-rtl-.md)
+* [Is RTL supported ?](content/how-can-i-enable-rtl.md)
 
 ## GitHub Integration
 * [Can I host my content on GitHub?](github/can-i-host-on-github.md)
