@@ -3,14 +3,14 @@
 ## Basics
 * [Introduction](home.md)
 * [What is GitBook?](basics/what-is-gitbook.md)
-* [Can I use GitBook to publish an F.A.Q \/ Help center?](basics/for-faq-documentation.md)
+* [Can I use GitBook to publish an F.A.Q. or Help center?](basics/for-faq-documentation.md)
 * [Can I use GitBook to publish an API documentation?](basics/for-api-documentation.md)
 * [Does GitBook own any rights on my book?](basics/does-gitbook-own-any-rights.md)
 * [Can I run GitBook on-premise \(on my own servers\)?](basics/can-i-run-gitbook-on-premise.md)
 * [Who's using GitBook?](basics/who-s-using-gitbook.md)
 
 ## Accounts & Billing
-* [I forgot\/lost my password. How do I reset it?](accounts/i-forgot-lost-my-password.md)
+* [I forgot or lost my password. How do I reset it?](accounts/i-forgot-lost-my-password.md)
 * [What plan should I choose?](accounts/what-plan-should-i-choose.md)
 * [How do I delete my user account?](accounts/how-do-i-delete-account.md)
 * [Will there be a minimum contract with premium plans?](accounts/will-there-be-a-minimal-contract.md)
@@ -27,7 +27,7 @@
 * [How can I grant read-only access to a private book?](books/how-can-i-grant-read-access.md)
 * [What is a Collaborator?](books/what-is-a-collaborator.md)
 * [What is an Access Key?](books/what-is-an-access-key.md)
-* [How can I disable\/delete an Access Key?](books/how-can-i-disable-access-key.md)
+* [How can I disable or delete an Access Key?](books/how-can-i-disable-access-key.md)
 * [Can I use a custom domain for my book?](books/can-i-use-custom-domain.md)
 * [Will my book be accessible with HTTPS?](books/will-my-book-be-accessible-with-https.md)
 * [How can I use Git to update my book?](books/how-can-i-use-git.md)
@@ -41,8 +41,8 @@
 * [How can I enable a plugin?](content/how-can-i-add-plugin.md)
 * [Is there a limit to the size of my book's content?](content/is-there-a-limited-size.md)
 * [Why are my updates failing to build?](content/why-are-my-updates-failing.md)
-* [How can I read\/share a specific version of my book?](content/how-can-i-access-a-specific-version.md)
-* [Is RTL supported ?](content/how-can-i-enable-rtl.md)
+* [How can I read or share a specific version of my book?](content/how-can-i-access-a-specific-version.md)
+* [Is RTL supported?](content/how-can-i-enable-rtl.md)
 
 ## GitHub Integration
 * [Can I host my content on GitHub?](github/can-i-host-on-github.md)
