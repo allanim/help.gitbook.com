@@ -4,4 +4,6 @@ related:
 
 ---
 
-All books hosted on the `gitbook.io` domain are accessible through HTTPS (URLs of the form `https://{author}.gitbooks.io/{book}/`). Custom domain names do not yet support HTTPS. Expect this to change in the coming months.
+All content hosted on GitBook.com is accessible through HTTPS: the `gitbook.io` domain (URLs of the form `https://{author}.gitbooks.io/{book}/`) and custom domain names.
+
+All content are being served through [our speedy global CDN](https://www.gitbook.com/blog/features/gitbook-cdn), at no additional cost for all users.
