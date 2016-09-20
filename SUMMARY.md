@@ -3,7 +3,7 @@
 ## Basics
 * [Introduction](home.md)
 * [What is GitBook?](basics/what-is-gitbook.md)
-* [Can I use GitBook to publish an F.A.Q. like this one ?](basics/for-faq-documentation.md)
+* [Can I use GitBook to publish an F.A.Q. like this one?](basics/for-faq-documentation.md)
 * [Can I use GitBook to publish an API documentation?](basics/for-api-documentation.md)
 * [Does GitBook own any rights on my book?](basics/does-gitbook-own-any-rights.md)
 * [Can I run GitBook on-premise \(on my own servers\)?](basics/can-i-run-gitbook-on-premise.md)
