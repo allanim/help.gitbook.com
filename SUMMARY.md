@@ -27,6 +27,7 @@
 * [How can I grant read-only access to a private book?](books/how-can-i-grant-read-access.md)
 * [What is a Collaborator?](books/what-is-a-collaborator.md)
 * [What is an Access Key?](books/what-is-an-access-key.md)
+* [How can I collaborate on someone else's book?](books/how-to-collaborate-on-someone-else-s-book.md)
 * [How can I disable or delete an Access Key?](books/how-can-i-disable-access-key.md)
 * [Can I use a custom domain for my book?](books/can-i-use-custom-domain.md)
 * [Will my book be accessible with HTTPS?](books/will-my-book-be-accessible-with-https.md)
