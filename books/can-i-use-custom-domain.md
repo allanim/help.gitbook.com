@@ -12,7 +12,7 @@ Adding a custom domain is easy:
 
 #### On GitBook.com
 
-Go to your book's **Settings** tab and then click on **Domains**. Then simply enter your domain and save.
+Go to your book's **Settings** tab and then click on **Domains**. Then simply enter your domain and save. You should see an alert, informing you that your CNAME is not properly configured. Proceed to the next steps to properly configure it.
 
 #### With your domain registrar
 
@@ -24,4 +24,6 @@ To finish the setup you will need to make a few changes with your domain registr
 
 3. To **redirect** the naked domain (`yourdomain.com`) to `www.yourdomain.com`, you'll need to enable *"domain forwarding"*. This is often found under `Forwarding`, `URL Forwarding` or `URL Redirect`.
 
-That's all ! It might take a few hours for the new DNS settings to propagate.
+That's all ! It might take a few hours for the new DNS settings to propagate. After that, go back to your book's **Domains** settings to check that everything is OK:
+
+<img style="max-width: 400px; display:block; margin:auto" src="/assets/dns-check.png" title="Domains settings checks your DNS configuration"/>
